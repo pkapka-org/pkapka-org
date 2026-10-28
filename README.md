@@ -2,6 +2,13 @@
 
 Student at **ADGIPS** (Dr. Akhilesh Das Gupta Institute of Professional Studies), New Delhi.
 
+## Experience
+
+**[Blueberry Travel Solutions Pvt Ltd](https://bramble.co.in)**
+- Backend Supervisor
+- Visiting Full-Stack Manager (current)
+- Emergency Full-Stack Engineer (earlier), backend design team
+
 ## Projects
 
 | Repository | What it is |
